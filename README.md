@@ -64,7 +64,7 @@ Cygnus IDE is a comprehensive development environment for programming your Pluto
 
 ## 🔧 DFU Drivers for Plutoblocks/ Cygnus IDE
 
-- **DFU Drivers for DFU Flashing** in Cygnus and PlutoBlocks: (Link to be added if available).
+- **[DFU Drivers for DFU Flashing](DFU%20Drivers)**: Required for DFU flashing in Cygnus and PlutoBlocks.
 
 ---
 
