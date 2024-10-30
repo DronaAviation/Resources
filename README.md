@@ -1,6 +1,19 @@
 # DronaAviation Resources 📚
 
-Welcome to the resources repository for DronaAviation! Here, you'll find downloads, guides, and tutorials for **PlutoBlocks** and **Cygnus IDE** to help you get started with programming your drone.
+Welcome to the resources repository for DronaAviation! Here, you'll find a collection of downloads, guides, manuals, and tutorials to help you explore and maximize your drone experience.
+
+---
+
+## 🛍️ Store Page
+
+- **[Buy a Drone](https://www.dronaaviation.com/store/)**: Explore and purchase the latest Pluto drones.
+
+---
+
+## 📑 Manuals
+
+- **[Pluto X Manual](https://www.dronaaviation.com/support/manuals/PlutoX%20User%20Manual%20A6.pdf)**: A detailed user manual for Pluto X.
+- **[Pluto 1.2 Manual](https://www.dronaaviation.com/support/manuals/Pluto1.2%20User%20Manual%20Final-compressed.pdf)**: A detailed user manual for Pluto 1.2.
 
 ---
 
@@ -23,7 +36,6 @@ PlutoBlocks is a visual block-based programming tool that lets you control and p
 - **[Project Book](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/Project%20with%20Pluto%20using%20Pluto%20blocks%20(2.1).pdf)**: A book full of projects and ideas using PlutoBlocks.
 - **[YouTube Tutorials](https://www.youtube.com/playlist?list=PLmchdkS6advGzzpvoXwljozqwHc6NVrsi)**
  
-
 ---
 
 ## 🌌 Cygnus IDE
@@ -50,24 +62,12 @@ Cygnus IDE is a comprehensive development environment for programming your Pluto
 
 ---
 
-## 🛍️ Drone Purchase
-
-- **[Buy a Drone](https://www.dronaaviation.com/store/)**: Explore and purchase the latest Pluto drones.
-
----
-
-## 📑 Manuals
-
-- **[Pluto X Manual](https://www.dronaaviation.com/support/manuals/PlutoX%20User%20Manual%20A6.pdf)**: A detailed user manual for Pluto X.
-- **[Pluto 1.2 Manual](https://www.dronaaviation.com/support/manuals/Pluto1.2%20User%20Manual%20Final-compressed.pdf)**: A detailed user manual for Pluto 1.2.
-
----
-
-## 🔧 DFU Drivers
+## 🔧 DFU Drivers for Plutoblocks/ Cygnus IDE
 
 - **DFU Drivers for DFU Flashing** in Cygnus and PlutoBlocks: (Link to be added if available).
 
 ---
+
 
 ## 🐍 Python Libraries and Projects
 
@@ -102,9 +102,5 @@ Explore drone projects and control drones with Python using the following librar
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" style="margin-right: 10px;">
   </a>
 </div>
-
-Feel free to explore, download, and get hands-on with these resources to make the most of your Pluto drone experience!
-
-
-
+---
 Feel free to explore, download, and get hands-on with these resources to make the most of your Pluto drone experience!
