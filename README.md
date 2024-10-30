@@ -102,5 +102,5 @@ Explore drone projects and control drones with Python using the following librar
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" style="margin-right: 10px;">
   </a>
 </div>
----
+
 Feel free to explore, download, and get hands-on with these resources to make the most of your Pluto drone experience!
