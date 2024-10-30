@@ -83,7 +83,7 @@ Explore drone projects and control drones with Python using the following librar
 ## 🌐 Join Our Community
 
 <h2>  Join Community</h2>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/company/drona-aviation-pvt-ltd-/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">
   </a>
