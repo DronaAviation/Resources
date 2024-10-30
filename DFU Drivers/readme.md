@@ -48,6 +48,7 @@ This guide provides step-by-step instructions to install the DFU (Device Firmwar
 7. **Completing the Setup**  
    - Return to the DFU Driver Installer, where you will see a "Completing the Setup Wizard" screen.
    - Click **Finish** to exit the installer.
+     
 ![image](https://github.com/user-attachments/assets/083be905-1f82-44e1-bf6f-8786b876ee66)
 
 ---
