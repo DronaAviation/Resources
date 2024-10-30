@@ -82,27 +82,29 @@ Explore drone projects and control drones with Python using the following librar
 
 ## 🌐 Join Our Community
 
-<h2>  Join Community</h2>
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/company/drona-aviation-pvt-ltd-/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="margin-right: 10px;">
   </a>
   <a href="https://www.youtube.com/@Dronaaviation" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" style="margin-right: 10px;">
   </a>
   <a href="https://www.instagram.com/dronaaviation/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" style="margin-right: 10px;">
   </a>
   <a href="https://discord.com/invite/hJfxVCdb6z" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="30" style="margin-right: 10px;">
   </a>
   <a href="https://github.com/DronaAviation" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub" width="30" style="margin-right: 10px;">
   </a>
   <a href="https://www.facebook.com/dronaaviation" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" style="margin-right: 10px;">
   </a>
 </div>
+
+Feel free to explore, download, and get hands-on with these resources to make the most of your Pluto drone experience!
+
 
 
 Feel free to explore, download, and get hands-on with these resources to make the most of your Pluto drone experience!
