@@ -21,9 +21,8 @@ PlutoBlocks is a visual block-based programming tool that lets you control and p
 
 - **[Guide Book](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/Guide%20to%20Pluto%20Blocks%20updated.pdf)**: A comprehensive guide to help you get started with PlutoBlocks.
 - **[Project Book](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/Project%20with%20Pluto%20using%20Pluto%20blocks%20(2.1).pdf)**: A book full of projects and ideas using PlutoBlocks.
-- **YouTube Tutorials**:
-  - [Tutorial Playlist 1](https://www.youtube.com/playlist?list=PLmchdkS6advGzzpvoXwljozqwHc6NVrsi)
-  - [Tutorial Playlist 2](https://www.youtube.com/playlist?list=PLmchdkS6advE6xuVQ1M2bqkUMmfwAoqUJ)
+- **[YouTube Tutorials](https://www.youtube.com/playlist?list=PLmchdkS6advGzzpvoXwljozqwHc6NVrsi)**
+ 
 
 ---
 
@@ -43,7 +42,7 @@ Cygnus IDE is a comprehensive development environment for programming your Pluto
 
 - **[API Reference](https://create.dronaaviation.com/assets/downloads/cygnus/API%20Reference%5Bv2.1.3%5D.pdf)**: A guide to the available Cygnus APIs.
 - **[Project Book](https://create.dronaaviation.com/assets/downloads/cygnus/Projects%20with%20Pluto_%20Using%20Cygnus%20IDE%20%28Version%201.1%29.pdf)**: Project ideas and guides for using Cygnus IDE.
-
+ - **[Youtube Tutorials](https://www.youtube.com/playlist?list=PLmchdkS6advE6xuVQ1M2bqkUMmfwAoqUJ)**
 ### ⚙️ Working with Firmware and Source Code
 
 - **Firmware Repository**: [Magis Firmware on GitHub](https://github.com/DronaAviation/Magis)
