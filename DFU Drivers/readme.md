@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/795e8791-b173-432c-8055-42dde23a9197)# DFU Driver Installation Guide
+# DFU Driver Installation Guide
 
 This guide provides step-by-step instructions to install the DFU (Device Firmware Upgrade) driver required for Cygnus and PlutoBlocks.
 
