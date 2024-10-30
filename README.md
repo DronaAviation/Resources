@@ -50,4 +50,34 @@ Cygnus IDE is a comprehensive development environment for programming your Pluto
 
 ---
 
+## 🛍️ Drone Purchase
+
+- **[Buy a Drone](https://www.dronaaviation.com/store/)**: Explore and purchase the latest Pluto drones.
+
+---
+
+## 📑 Manuals
+
+- **[Pluto X Manual](https://www.dronaaviation.com/support/manuals/PlutoX%20User%20Manual%20A6.pdf)**: A detailed user manual for Pluto X.
+- **[Pluto 1.2 Manual](https://www.dronaaviation.com/support/manuals/Pluto1.2%20User%20Manual%20Final-compressed.pdf)**: A detailed user manual for Pluto 1.2.
+
+---
+
+## 🔧 DFU Drivers
+
+- **DFU Drivers for DFU Flashing** in Cygnus and PlutoBlocks: (Link to be added if available).
+
+---
+
+## 🐍 Python Libraries and Projects
+
+Explore drone projects and control drones with Python using the following libraries:
+
+- **[plutocam](https://pypi.org/project/plutocam/)**: Library for controlling the Pluto drone camera.
+- **[plutocontrol](https://pypi.org/project/plutocontrol/)**: Library for drone control via Python.
+- **[Projects with Python](https://github.com/DronaAviation/PROJECTS_WITH_PYTHON/tree/main)**: Collection of various drone projects with Python.
+- **[Camera Projects](https://github.com/DronaAviation/PROJECTS_WITH_PYTHON/tree/main/PlutoCam)**: Specific Python projects for controlling and using the drone camera.
+
+---
+
 Feel free to explore, download, and get hands-on with these resources to make the most of your Pluto drone experience!
