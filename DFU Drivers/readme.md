@@ -1,4 +1,4 @@
-# DFU Driver Installation Guide
+![image](https://github.com/user-attachments/assets/795e8791-b173-432c-8055-42dde23a9197)# DFU Driver Installation Guide
 
 This guide provides step-by-step instructions to install the DFU (Device Firmware Upgrade) driver required for Cygnus and PlutoBlocks.
 
@@ -56,3 +56,5 @@ This guide provides step-by-step instructions to install the DFU (Device Firmwar
 Your DFU driver should now be installed successfully, and your system is ready for DFU flashing in Cygnus and PlutoBlocks.
 
 If you encounter any issues, try disconnecting and reconnecting your USB cable and ensure that the drone is powered on.
+
+if you are still facing any issue refer to this **[Video](https://www.youtube.com/watch?v=iq9BceSV9IY)**
