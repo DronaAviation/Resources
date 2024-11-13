@@ -8,7 +8,7 @@ PlutoBlocks is a visual block-based programming tool that lets you control and p
 
 | Platform  | Link |
 |-----------|------|
-| **Windows (64-bit)** | [Download PlutoBlocks for Windows](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/PlutoBlocks-Win-2-0-3.zip) |
+| **Windows (64-bit)** | [Download PlutoBlocks for Windows](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/PlutoBlocks-3.0.0%20Setup.exe) |
 | **Mac OS** | [Download PlutoBlocks for Mac](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/PlutoBlocks-Mac-2.0.4.pkg) |
 | **Android** | [Get PlutoBlocks on Google Play](https://play.google.com/store/apps/details?id=com.dronaaviation.pluto_blocks&pcampaignid=web_share) |
 | **iOS** | [Get PlutoBlocks on the App Store](https://apps.apple.com/us/app/plutoblocks/id6502699131) |
