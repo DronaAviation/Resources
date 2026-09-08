@@ -43,7 +43,6 @@ PlutoBlocks is a visual block-based programming tool that lets you control and p
 
 - **[PlutoBlocks Web Book](https://dronaaviation.github.io/Plutoblocks-web-book/)**: Interactive online documentation for PlutoBlocks.
 - **[Guide Book (PDF)](<PlutoBlocks/PlutoBlocks Guide Book v2.pdf>)**: A comprehensive guide to help you get started with PlutoBlocks.
-- **[Sample Projects](PlutoBlocks/Projects)**: Ready-to-open `.json` projects — [Basic](PlutoBlocks/Projects/Basic) and [Advance](PlutoBlocks/Projects/Advance).
 - **[Online Courses](#-online-courses)**: Guided PlutoBlocks courses on the Drona Aviation learning platform.
 
 ---

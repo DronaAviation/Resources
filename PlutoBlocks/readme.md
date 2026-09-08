@@ -14,8 +14,6 @@ PlutoBlocks is a visual block-based programming tool that lets you control and p
 ### 📁 What's in this folder
 
 - **[PlutoBlocks Guide Book v2 (PDF)](<PlutoBlocks Guide Book v2.pdf>)** — the printable guide.
-- **[Projects/Basic](Projects/Basic)** — beginner `.json` projects, open them directly in PlutoBlocks.
-- **[Projects/Advance](Projects/Advance)** — advanced projects (LED module, sound sensor, MQ gas sensor, obstacle avoider, and more).
 
 ### 📘 Guides and Tutorials
 
