@@ -1,22 +1,32 @@
-
-
 ## 🚀 PlutoBlocks
 
 PlutoBlocks is a visual block-based programming tool that lets you control and program your drone with ease. Below are the download links and resources to start using PlutoBlocks on different platforms.
 
 ### 📥 Downloads
 
-| Platform  | Link |
-|-----------|------|
-| **Windows (64-bit)** | [Download PlutoBlocks for Windows](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/PlutoBlocks-3.0.0%20Setup.exe) |
-| **Mac OS** | [Download PlutoBlocks for Mac](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/PlutoBlocks-Mac-2.0.4.pkg) |
-| **Android** | [Get PlutoBlocks on Google Play](https://play.google.com/store/apps/details?id=com.dronaaviation.pluto_blocks&pcampaignid=web_share) |
-| **iOS** | [Get PlutoBlocks on the App Store](https://apps.apple.com/us/app/plutoblocks/id6502699131) |
+| Platform             | Link                                                                                                                                |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows (64-bit)** | [Download PlutoBlocks for Windows](https://github.com/DronaAviation/Resources/releases/download/v4.1.1/PlutoBlocks.Setup.V4.1.1.exe) |
+| **Mac OS**           | [Download PlutoBlocks for Mac](https://github.com/DronaAviation/Resources/releases/download/v4.1.1/PlutoBlocks.4.1.1.dmg)            |
+
+> 🔄 **Always get the newest build:** [Resources → Releases](https://github.com/DronaAviation/Resources/releases/latest)
+
+### 📁 What's in this folder
+
+- **[PlutoBlocks Guide Book v2 (PDF)](<PlutoBlocks Guide Book v2.pdf>)** — the printable guide.
+- **[Projects/Basic](Projects/Basic)** — beginner `.json` projects, open them directly in PlutoBlocks.
+- **[Projects/Advance](Projects/Advance)** — advanced projects (LED module, sound sensor, MQ gas sensor, obstacle avoider, and more).
 
 ### 📘 Guides and Tutorials
 
-- **[Guide Book](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/Guide%20to%20Pluto%20Blocks%20updated.pdf)**: A comprehensive guide to help you get started with PlutoBlocks.
-- **[Project Book](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/Project%20with%20Pluto%20using%20Pluto%20blocks%20(2.1).pdf)**: A book full of projects and ideas using PlutoBlocks.
-- **[YouTube Tutorials](https://www.youtube.com/playlist?list=PLmchdkS6advGzzpvoXwljozqwHc6NVrsi)**
- 
+- **[PlutoBlocks Web Book](https://dronaaviation.github.io/Plutoblocks-web-book/)**: Interactive online documentation.
+- **[Course: Introduction to PlutoBlocks](https://learn.dronaaviation.com/l/pdp/introduction-to-plutoblocks)**: *Your First Step into Drone Programming* — a guided online course for beginners, no prior coding experience needed.
+- **[Course: PlutoBlocks Block-by-Block](https://learn.dronaaviation.com/l/pdp/plutoblocks-block-by-block)**: A walkthrough of the PlutoBlocks blocks, one at a time.
+
+> 📚 **Browse all courses:** [learn.dronaaviation.com](https://learn.dronaaviation.com/l/products)
+
+### 🔧 Before you flash
+
+DFU flashing needs the driver installed once — see **[DFU Drivers](<../DFU Drivers>)**.
+
 ---

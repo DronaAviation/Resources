@@ -12,8 +12,8 @@ Welcome to the resources repository for DronaAviation! Here, you'll find a colle
 
 ## 📑 Manuals
 
-- **[Pluto X Manual](https://www.dronaaviation.com/support/manuals/PlutoX%20User%20Manual%20A6.pdf)**: A detailed user manual for Pluto X.
-- **[Pluto 1.2 Manual](https://www.dronaaviation.com/support/manuals/Pluto1.2%20User%20Manual%20Final-compressed.pdf)**: A detailed user manual for Pluto 1.2.
+- **[Pluto X Manual](<Manual/Pluto X_Manual.pdf>)**: A detailed user manual for Pluto X.
+- **[Pluto 1.2 Manual](<Manual/Pluto 1.2_Manual.pdf>)**: A detailed user manual for Pluto 1.2.
 
 ---
 
@@ -23,60 +23,112 @@ PlutoBlocks is a visual block-based programming tool that lets you control and p
 
 ### 📥 Downloads
 
-| Platform  | Link |
-|-----------|------|
-| **Windows (64-bit)** | [Download PlutoBlocks for Windows](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/PlutoBlocks-Win-2-0-3.zip) |
-| **Mac OS** | [Download PlutoBlocks for Mac](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/PlutoBlocks-Mac-2.0.4.pkg) |
-| **Android** | [Get PlutoBlocks on Google Play](https://play.google.com/store/apps/details?id=com.dronaaviation.pluto_blocks&pcampaignid=web_share) |
-| **iOS** | [Get PlutoBlocks on the App Store](https://apps.apple.com/us/app/plutoblocks/id6502699131) |
+<!--
+  MAINTAINERS: these two desktop links are pinned to a specific release tag because the
+  uploaded asset filenames contain the version number, so they must be bumped on every release.
+  If the build is changed to publish version-free filenames (e.g. PlutoBlocks-Setup.exe /
+  PlutoBlocks.dmg), swap them for these permanent links, which never need updating:
+    https://github.com/DronaAviation/Resources/releases/latest/download/PlutoBlocks-Setup.exe
+    https://github.com/DronaAviation/Resources/releases/latest/download/PlutoBlocks.dmg
+-->
+
+| Platform             | Link                                                                                                                                |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows (64-bit)** | [Download PlutoBlocks for Windows](https://github.com/DronaAviation/Resources/releases/download/v4.1.1/PlutoBlocks.Setup.V4.1.1.exe) |
+| **Mac OS**           | [Download PlutoBlocks for Mac](https://github.com/DronaAviation/Resources/releases/download/v4.1.1/PlutoBlocks.4.1.1.dmg)            |
+
+> 🔄 **Always get the newest build:** [Resources → Releases](https://github.com/DronaAviation/Resources/releases/latest)
 
 ### 📘 Guides and Tutorials
 
-- **[Guide Book](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/Guide%20to%20Pluto%20Blocks%20updated.pdf)**: A comprehensive guide to help you get started with PlutoBlocks.
-- **[Project Book](https://create.dronaaviation.com/assets/downloads/PlutoBlocks/Project%20with%20Pluto%20using%20Pluto%20blocks%20(2.1).pdf)**: A book full of projects and ideas using PlutoBlocks.
-- **[YouTube Tutorials](https://www.youtube.com/playlist?list=PLmchdkS6advGzzpvoXwljozqwHc6NVrsi)**
- 
+- **[PlutoBlocks Web Book](https://dronaaviation.github.io/Plutoblocks-web-book/)**: Interactive online documentation for PlutoBlocks.
+- **[Guide Book (PDF)](<PlutoBlocks/PlutoBlocks Guide Book v2.pdf>)**: A comprehensive guide to help you get started with PlutoBlocks.
+- **[Sample Projects](PlutoBlocks/Projects)**: Ready-to-open `.json` projects — [Basic](PlutoBlocks/Projects/Basic) and [Advance](PlutoBlocks/Projects/Advance).
+- **[Online Courses](#-online-courses)**: Guided PlutoBlocks courses on the Drona Aviation learning platform.
+
 ---
 
-## 🌌 Cygnus IDE
+## 🎓 Online Courses
 
-Cygnus IDE is a comprehensive development environment for programming your Pluto drone. Access the latest versions for Windows, macOS, and Linux, along with a variety of resources for advanced programming.
+Guided, self-paced courses on the Drona Aviation learning platform.
 
-### 📥 Downloads
+| Course                                                                                                             | About                                                                    |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **[Learn Drone Technology using Pluto](https://learn.dronaaviation.com/l/pdp/drone-technology-for-beginners)**          | Drone technology from the ground up, for absolute beginners.              |
+| **[Introduction to PlutoBlocks](https://learn.dronaaviation.com/l/pdp/introduction-to-plutoblocks)**                    | Your first step into drone programming — no prior coding experience needed. |
+| **[PlutoBlocks Block-by-Block](https://learn.dronaaviation.com/l/pdp/plutoblocks-block-by-block)**                      | A walkthrough of the PlutoBlocks blocks, one at a time.                   |
 
-| Platform  | Link |
-|-----------|------|
-| **Windows (64-bit)** | [Download Cygnus IDE for Windows](https://create.dronaaviation.com/assets/downloads/cygnus/Cygnus-Deneb-2-2-0-win.zip) |
-| **Mac OS** | [Download Cygnus IDE for Mac](https://create.dronaaviation.com/assets/downloads/cygnus/Cygnus-Deneb-2-2-0-MacOS.zip) |
-| **Linux (64-bit)** | [Download Cygnus IDE for Linux](https://create.dronaaviation.com/assets/downloads/cygnus/Cygnus-Deneb-2-2-0-linux.tar.gz) |
+> 📚 **Browse the full catalogue:** [learn.dronaaviation.com](https://learn.dronaaviation.com/l/products)
+
+---
+
+## 💻 Pluto IDE
+
+**Pluto IDE** is the current development environment for programming your Pluto drone in C++ — it replaces the discontinued Cygnus IDE. It ships as a **Visual Studio Code extension**, so it runs on Windows, macOS, and Linux, and it manages the toolchain, build, flashing (USB/WiFi), and serial monitoring for you.
+
+### 📥 Installation
+
+1. Install **[Visual Studio Code](https://code.visualstudio.com/)**.
+2. Install the **[Pluto IDE extension](https://marketplace.visualstudio.com/items?itemName=Drona-Aviation.pluto-ide)** from the VS Code Marketplace.
+
+Or install it from a terminal:
+
+```bash
+code --install-extension Drona-Aviation.pluto-ide
+```
+
+| Resource                   | Link                                                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Extension (Marketplace)** | [Drona-Aviation.pluto-ide](https://marketplace.visualstudio.com/items?itemName=Drona-Aviation.pluto-ide) |
+| **Extension Info Page**     | [Pluto IDE Extension](https://dronaaviation.github.io/Pluto-IDE-Extension-Info-Pages/)                   |
+| **Toolchain Essentials**    | [Pluto-IDE-Essentials](https://github.com/DronaAviation/Pluto-IDE-Essentials/releases/latest)            |
+| **Starter Library Project** | [PlutoIDE-Lib-Project](https://github.com/DronaAviation/PlutoIDE-Lib-Project/releases/latest)            |
 
 ### 📘 Guides and Tutorials
 
-- **[API Reference](https://create.dronaaviation.com/assets/downloads/cygnus/API%20Reference%5Bv2.1.3%5D.pdf)**: A guide to the available Cygnus APIs.
-- **[Project Book](https://create.dronaaviation.com/assets/downloads/cygnus/Projects%20with%20Pluto_%20Using%20Cygnus%20IDE%20%28Version%201.1%29.pdf)**: Project ideas and guides for using Cygnus IDE.
- - **[Youtube Tutorials](https://www.youtube.com/playlist?list=PLmchdkS6advE6xuVQ1M2bqkUMmfwAoqUJ)**
+- **[Pluto IDE Web Book](https://dronaaviation.github.io/PlutoIDE-web-book/)**: Setup guide, hardware/software reference, and 19 step-by-step C++ projects for Pluto X and Pluto 1.2.
+- **[MagisV2 API Wiki](https://github.com/DronaAviation/MagisV2/wiki)**: Full API reference for the MagisV2 firmware.
+- **[MagisV2 API Reference (offline)](https://github.com/DronaAviation/MagisV2-API-Wiki)**: Single-page HTML copy of the API reference.
+
 ### ⚙️ Working with Firmware and Source Code
 
-- **Firmware Repository**: [Magis Firmware on GitHub](https://github.com/DronaAviation/Magis)
-- **[Working with Source Code](https://create.dronaaviation.com/software/tutorials/cygnus-ide/working-with-source-code)**: Learn how to build native Pluto code with Cygnus IDE for API or firmware customization.
+- **[MagisV2](https://github.com/DronaAviation/MagisV2)**: Current flight-controller firmware for the Pluto platform — [latest release](https://github.com/DronaAviation/MagisV2/releases/latest).
+- **[MagisV2 Add-Ons](https://github.com/DronaAviation/MagisV2-Add-On)**: Example code and prebuilt `.hex` firmware for external modules (sensors, motors, and other peripherals).
+- **[Magis (legacy)](https://github.com/DronaAviation/Magis)**: Older firmware, kept for reference.
+
+> ⚠️ **Cygnus IDE is discontinued.** Please migrate to Pluto IDE — it is actively maintained and required for MagisV2 firmware development.
 
 ---
 
-## 🔧 DFU Drivers for Plutoblocks/ Cygnus IDE
+## 🔧 DFU Drivers for PlutoBlocks / Pluto IDE
 
-- **[DFU Drivers for DFU Flashing](DFU%20Drivers)**: Required for DFU flashing in Cygnus and PlutoBlocks.
+- **[DFU Drivers for DFU Flashing](<DFU Drivers>)**: Required for DFU flashing in Pluto IDE and PlutoBlocks. Includes a step-by-step installation guide.
 
 ---
 
+## 🖨️ 3D Printing Files
+
+- **[3D Printing Files](<3D Printing Files>)**: Printable `.stl` mounts and holders for sensors and modules — buzzer holder, card holder, LED light holder, MQ gas sensor mount, PIR sensor mount, and sound sensor mount.
+
+---
 
 ## 🐍 Python Libraries and Projects
 
 Explore drone projects and control drones with Python using the following libraries:
 
 - **[plutocam](https://pypi.org/project/plutocam/)**: Library for controlling the Pluto drone camera.
-- **[plutocontrol](https://pypi.org/project/plutocontrol/)**: Library for drone control via Python.
+- **[plutocontrol](https://pypi.org/project/plutocontrol/)**: Library for drone control via Python ([source](https://github.com/DronaAviation/plutocontrol)).
 - **[Projects with Python](https://github.com/DronaAviation/PROJECTS_WITH_PYTHON/tree/main)**: Collection of various drone projects with Python.
 - **[Camera Projects](https://github.com/DronaAviation/PROJECTS_WITH_PYTHON/tree/main/PlutoCam)**: Specific Python projects for controlling and using the drone camera.
+
+---
+
+## 🤖 ROS Packages
+
+- **[pluto_ros2_package](https://github.com/DronaAviation/pluto_ros2_package)**: Control Pluto from ROS 2.
+- **[pluto_cam_ros2](https://github.com/DronaAviation/pluto_cam_ros2)**: Pluto camera stream for ROS 2.
+- **[pluto_camera_ros_package](https://github.com/DronaAviation/pluto_camera_ros_package)**: Pluto camera stream for ROS 1 (Linux 64-bit).
+- **[pluto-ros-package](https://github.com/DronaAviation/pluto-ros-package)**: Control Pluto with keyboard, joystick, or rostopic (ROS 1).
 
 ---
 
@@ -89,7 +141,7 @@ Explore drone projects and control drones with Python using the following librar
   <a href="https://www.youtube.com/@Dronaaviation" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" style="margin-right: 10px;">
   </a>
-  <a href="https://www.instagram.com/dronaaviation/" target="_blank">
+  <a href="https://www.instagram.com/plutodrones/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" style="margin-right: 10px;">
   </a>
   <a href="https://discord.com/invite/hJfxVCdb6z" target="_blank">
@@ -102,5 +154,7 @@ Explore drone projects and control drones with Python using the following librar
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" style="margin-right: 10px;">
   </a>
 </div>
+
+📧 Support: [support@plutodrones.com](mailto:support@plutodrones.com) · 🌐 [dronaaviation.com](https://www.dronaaviation.com)
 
 Feel free to explore, download, and get hands-on with these resources to make the most of your Pluto drone experience!
